@@ -245,6 +245,11 @@ ul {
   border: 1px solid #ff900e;
   border-radius: 8px;
 }
+.box-02:hover {
+  height: 220px;
+  width: 220px;
+  border: 3px solid #ff900e;
+}
 .box-img {
   width: 46px;
   height: 46px;
