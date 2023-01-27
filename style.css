@@ -290,8 +290,12 @@ ul {
 .sponspor-img {
   width: 166.76px;
   height: 50px;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
+}
+.sponspor-img:hover {
+  filter: none;
+  width: 180px;
+  height: auto;
 }
 
 footer {
